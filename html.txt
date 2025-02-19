@@ -1,0 +1,23 @@
+<html>
+    <head>segunda</head>
+    <h3><title>lista ordenada y desordenada</title></h3>
+    <body>
+        <strong> <p> para escribir parrafos</p></strong><br>
+        <b><p>puede ser de las dos maneras para negritas</p></b><br>
+        <em><P>para textos de forma cursiva</P></em><br>
+        <u><p>permite tener subrayado los textos importantes</p></u>
+
+        <ol>
+            <li>karla</li>
+            <li>jorge</li>
+            <li>cesar</li>
+            <li>paola</li>
+        </ol>
+        <ul>
+            <li>maria</li>
+            <li>iris</li>
+            <li>stephany</li>
+            <li>manuel</li>
+        </ul>
+    </body>
+</html>
